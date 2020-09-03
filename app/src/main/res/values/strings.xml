@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">tasksApp</string>
     <string name="click_me">Click Me</string>
+    <string name="first_fragment">First Fragment</string>
 </resources>
